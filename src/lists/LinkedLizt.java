@@ -195,5 +195,4 @@ public class LinkedLizt<T> {
         builder.append("]");
         return builder.toString();
     }
-
 }
